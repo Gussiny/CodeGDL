@@ -1,0 +1,62 @@
+navbar{
+    font-family: 'Baloo Bhai', cursive;
+}
+
+body {
+    /*background: linear-gradient(0deg, #d4fc79 0%, #96e6a1 100%), url('../img/bg.jpg');*/
+    background: linear-gradient(to right, rgba(150,230,161,1) 0%, rgba(212,252,121,0.59) 61%, rgba(212,252,121,0.32) 100%), url('../img/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Baloo Bhai', cursive;
+}
+header{
+    margin-top: 50px;
+}
+
+body, html{
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.form-control{
+    color: #fff !important;
+}
+
+a .fab{
+    color: #fff;
+    font-size: 30px;
+    margin: 0 10px;
+}
+
+.btn-sample { 
+    color: #FFFFFF; 
+    background-color: #4DDB85; 
+    border-color: #4DDB85; 
+}
+
+.btn-sample:hover, 
+.btn-sample:focus, 
+.btn-sample:active, 
+.btn-sample.active, 
+.open .dropdown-toggle.btn-sample { 
+  color: #ffffff; 
+  background-color: #47C078; 
+  border-color: #47C078; 
+} 
+
+.faq, .page-footer {
+    background: #4DDB85;
+}
+
+.btn-link {
+    font-weight: 400;
+    color: #000;
+    text-decoration: none;
+}
+
+.card-body{
+    background: #47C078;
+}
