@@ -60,3 +60,16 @@ a .fab{
 .card-body{
     background: #47C078;
 }
+
+aside.clients img{
+    margin: 40px auto;
+}
+
+.sponsors{
+    width: 50%;
+}
+
+img{
+    
+    vertical-align: middle;
+}
